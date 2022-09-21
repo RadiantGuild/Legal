@@ -19,25 +19,25 @@ When making political content, you must be able to accept that others have diffe
 It’s important to remember that the platform is an art platform, not a political debate forum. We reserve the right to take any action on anything that becomes politically charged if needed.
 
 ### 2.2. Harassment, Bullying and Discrimination
-We do not allow any user to make content or use communication features to harass, bully, intimidate, discriminate, mock or make fun of another person regardless if that user is on or off the platform.
+We do not allow any user to make content or use communication features to harass, bully, intimidate, discriminate, mock or make fun of another person regardless if that person is on or off the platform.
 ### 2.3. Threats of Violence and Doxing
-We will not tolerate any behaviour that is threatening, including threats of violence or doxing another person, serious or not, regardless of if that user is on or off platform. Doxing (publishing identifying information about another person on or off platform) will not be tolerated. Violations may result in immediate account termination.
+We will not tolerate any behaviour that is threatening, including threats of violence or doxing another person, serious or not, regardless of if that person is on or off platform. Doxing (publishing identifying information about another person on or off platform) will not be tolerated. Violations may result in immediate account termination.
 ### 2.4. Malware, Trackers and Account Stealing
-We will not tolerate any users who engage in any form of malware spreading campaign, any user who attempts to steal another user’s account or otherwise engages in activities that risks a user’s privacy. All violations of this rule will result in account suspension or termination immediately.
+We will not tolerate any users who engage in any form of malware spreading campaign, any user who attempts to steal another user’s account, or otherwise engages in activities that risks a user’s privacy. All violations of this rule will result in account suspension or termination immediately.
 ### 2.5. Blocking
-Users who block another user must not attempt to communicate with the blocked user, and users may not act as a proxy to circumvent a block. Blocks must not be abused to communicate with another user while preventing communication from that user. Once a block has been created, that block can’t be removed again within a 24-hour period, and if the block is removed it can’t be recreated within a 24-hour period.
+Users who block another user must not attempt to communicate with the blocked user, and users may not act as a proxy to circumvent a block. Blocks must not be abused to communicate with another user while preventing communication from that user.
 
 Block evasion (any attempt to circumvent a block as the blocking user, blocked user or a user acting as proxy between a blocker and a blocked user) will not be tolerated.
 
 ## 3. CONTENT ORIGINALITY
 Content published to the platform must be your original works. Republishing with permission of the original artist(s) is acceptable in cases where the permission can be shown to site administration on request.
 
-## 4. AI GENERATD CONTENT
+## 4. AI GENERATED CONTENT
 Posts containing AI-generated content must be marked as "AI Generated" in the upload form.  
 The credit you claim for artwork must accurately reflect the work you put into it. While you may claim credit for modifications made to AI-generated content, AI-generated content must be acknowledged as such.
 
 ## 5. MATURE CONTENT
-Maturity flags are content warnings that the platform provides to artists to warn users when content contains things that may not be suitable for everyone. As such artists are expected to flag their content with the appropriate maturity flags.
+Maturity flags are content warnings that the platform provides for artists to warn users when content contains things that may not be suitable for everyone. As such artists are expected to flag their content with the appropriate maturity flags.
 ### 5.1. Violence
 Any content that contains physical violence in any form (for example fist fights) must be flagged with the Violence maturity flag. This also includes fantasy violence, for example magic or special abilities. Encouraging or promoting violence is strictly prohibited in all circumstances.
 ### 5.2. Drug Use / Drug reference
