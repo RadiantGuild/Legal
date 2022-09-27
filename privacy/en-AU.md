@@ -1,8 +1,8 @@
 ---
 title: Privacy & Cookie Policy
 version: 1.0.0
-updated: 2022/07/29
-next_review: 2023/01/29
+updated: 2022/09/28
+next_review: 2023/03/28
 translation: en-AU
 ---
 
@@ -58,7 +58,6 @@ Web Access Logs and Anonymised Analytics Data:
     - GitHub
     - GitLab
     - Patreon
-    - Deviant Art
 - Display name
 - URL Safe Name
 - Small bio (Optional)
@@ -110,7 +109,7 @@ We primarily use the data provided to us to provide you with the service we offe
 We collect some basic analytics data, all of this analytics data is anonymized and we as a platform are unable to link analytics data with individual users. The purpose of this analytics data is to help us improve the platform. For example, we will collect screen sizes so that we can take the common sizes and use them as part of testing and designing. We will also collect user agent strings so that we can understand better what kinds of devices are used when viewing the Radiant Guild, are you using a phone? Are you on a tablet? A desktop maybe? What browsers and versions are being used?
 
 ### 5.3. ACCOUNT INFORMATION
-Account information is data regarding your identity on our platform and for the most part is kept private within the Radiant Guild system. We also strongly believe that the best way to keep user data safe is by not having that user data. So we will never ever ask you for your real name, date of birth, or other personal information. The only data that we need is your email address so that we can communicate with you and configure an account. Along with your email address you need to provide one of either a password that we store with a one way hashing algorithm so that none of the Radiant Guild staff members can see your password, or link to a third party identity provider like Google, Discord, GitHub and GitLab.
+Account information is data regarding your identity on our platform and for the most part is kept private within the Radiant Guild system. We also strongly believe that the best way to keep user data safe is by not having that user data. So we will never ever ask you for your real name, date of birth, or other personal information. The only data that we need is your email address so that we can communicate with you and configure an account. Along with your email address you need to provide one of either a password that we store with a one way hashing algorithm so that none of the Radiant Guild staff members can see your password, or link to a third party identity provider like Discord, GitHub, GitLab and Patreon
 
 **Note about passwords**: While we at the Radiant Guild do our best to secure your password, we would like to make it clear that storing a password hash after passing it through a one way algorithm to prevent people from knowing what it was before the hash is still at risk of being dehashed. Someone with a powerful machine and time can bruteforce a hash and uncover what it was. So we advise all users who use a password to please use a password manager and use randomly generated passwords.
 
