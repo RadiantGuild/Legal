@@ -1,8 +1,8 @@
 ---
 title: Privacy & Cookie Policy
-version: 1.0.0
-updated: 2022/09/28
-next_review: 2023/03/28
+version: 1.0.1
+updated: 2022/10/10
+next_review: 2023/04/10
 translation: en-AU
 ---
 
