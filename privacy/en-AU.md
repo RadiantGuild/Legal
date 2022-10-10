@@ -181,6 +181,9 @@ Account deletion requests will schedule account deletion to begin 30 days after 
 
 The following data will not be deleted.
 - Art assets that have been uploaded as part of a commission, if that commission is linked to more than one user’s account
+- Moderation history, being data we collect recording decisions made by our moderators in relation to your account
+- System events, being data we collect recording actions you have performed on the platform such as the creation or removal of content on the platform
+
 
 ### 10.3. DATA EXPORT REQUESTS
 Data export requests will request our system to compile and package up all user data in a format that allows both easy viewing by users and easy processing by automated tools. Data export requests will be completed as quickly as possible and sent to the requestor in no more than 30 days from receiving the request. In these data exports we will provide the following data
