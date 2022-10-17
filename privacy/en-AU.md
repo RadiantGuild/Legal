@@ -179,7 +179,7 @@ We as a platform strongly believe that the only way that we can get your trust a
 ### 10.2. ACCOUNT DELETION REQUESTS
 Account deletion requests will schedule account deletion to begin 30 days after the request was received. All data except for data that is stored in backups will be deleted within 10 days of the scheduled deletion date. All data in backups will be deleted as quickly as possible. To get updates on data deletion progress, you can contact support by email, quote the deletion request Id and we will give you a detailed update on the request.
 
-The following data will not be deleted.
+The following data will not be deleted, but will be anonymised where applicable.
 - Art assets that have been uploaded as part of a commission, if that commission is linked to more than one user’s account
 - Moderation history, being data we collect recording decisions made by our moderators in relation to your account
 - System events, being data we collect recording actions you have performed on the platform such as the creation or removal of content on the platform
