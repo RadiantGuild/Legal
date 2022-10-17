@@ -1,8 +1,8 @@
 ---
 title: Platform Terms & Conditions
-version: 1.0.0
-updated: 2022/07/29
-next_review: 2023/01/29
+version: 1.0.1
+updated: 2022/10/17
+next_review: 2023/10/17
 translation: en-AU
 ---
 
@@ -52,7 +52,7 @@ The summaries of each clause provided in the side bar are there to assist you to
 
 4. Some Content and/or Services may be only accessible by making a one-off payment or a monthly or annual recurring payment, either to us or to the relevant Creator. We may also offer an option to make pledge payments to a value as determined by you, depending on the level of support you would like to offer to us or to the relevant Creator.
 
-5. You acknowledge and agree that as a condition of accessing the Platform, you must comply with our Content & Code of Conduct Policy accessible at [https://radiantguild.com/legal/coc](../coc/en-AU.md).
+5. You acknowledge and agree that as a condition of accessing the Platform, you must comply with our Content & Code of Conduct Policy accessible at [https://radiantguild.com/legal/coc](/legal/coc).
 
 6. We reserve the right to contact you about any concerning behaviour by you, or to seek a resolution with you. We may, in our absolute discretion, suspend or cancel your Account if you fail to comply with this agreement.
 
@@ -213,7 +213,7 @@ The Platform may contain text, images, data and other content provided by a thir
 ### 10. PRIVACY
 > You agree to be bound by our Privacy Policy, which can be accessed via the Platform.
 
-1. You agree to be bound by our Privacy Policy, which can be accessed at [https://radiantguild.com/legal/privacy](../privacy/en-AU.md).
+1. You agree to be bound by our Privacy Policy, which can be accessed at [https://radiantguild.com/legal/privacy](/legal/privacy).
 
 2. We collect personal information about you in order to enable you to access and use the Platform, to contact and communicate with you, to respond to your enquiries and for the other purposes set out in our Privacy Policy.
 
