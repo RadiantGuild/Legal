@@ -1,8 +1,8 @@
 ---
 title: Content & Code of Conduct
-version: 1.0.0
-updated: 2022/09/20
-next_review: 2023/03/20
+version: 1.0.1
+updated: 2023/04/06
+next_review: 2023/10/06
 translation: en-AU
 ---
 
