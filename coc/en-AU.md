@@ -1,8 +1,8 @@
 ---
 title: Content & Code of Conduct
-version: 1.0.0
-updated: 2022/09/20
-next_review: 2023/03/20
+version: 1.0.1
+updated: 2023/04/06
+next_review: 2023/10/06
 translation: en-AU
 ---
 
@@ -33,8 +33,8 @@ Block evasion (any attempt to circumvent a block as the blocking user, blocked u
 Content published to the platform must be your original works. Republishing with permission of the original artist(s) is acceptable in cases where the permission can be shown to site administration on request.
 
 ## 4. AI GENERATED CONTENT
-Posts containing AI-generated content must be marked as "AI Generated" in the upload form.  
-The credit you claim for artwork must accurately reflect the work you put into it. While you may claim credit for modifications made to AI-generated content, AI-generated content must be acknowledged as such.
+Posts containing AI-generated content are not allowed at this time and posts proven to contain it will be deleted after moderation contact with the poster.  
+We don't prohibit tools that use AI (Content aware selection for example) but the image can't be generated.
 
 ## 5. MATURE CONTENT
 Maturity flags are content warnings that the platform provides for artists to warn users when content contains things that may not be suitable for everyone. As such artists are expected to flag their content with the appropriate maturity flags.
